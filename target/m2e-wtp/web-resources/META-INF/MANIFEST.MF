@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: caisupeng
+Build-Jdk: 1.8.0_51
+Created-By: Maven Integration for Eclipse
+Implementation-Title: spring-oauth-server
+Implementation-Version: 0.3
+Implementation-BuildNumber: 0.3
+
